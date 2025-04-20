@@ -43,7 +43,11 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+## ` 🔎 ` Discord Profil:
+<a href="https://discord.com/users/1036579529407340585"><img src="https://lanyard.cnrad.dev/api/1036579529407340585"><p/>
 
+
+</p>
 ## 🙏 Acknowledgments
 Special thanks to these developers who helped me:
 - [Timo](https://github.com/tibue99/)
