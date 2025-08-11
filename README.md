@@ -46,10 +46,6 @@
 
 
 </p>
-## 🙏 Acknowledgments
-Special thanks to these developers who helped me:
-- [Timo](https://github.com/tibue99/)
-- [Tobfd](https://github.com/tobfd)
 
 ---
 
